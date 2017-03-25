@@ -31,7 +31,17 @@ namespace BotCLI
 
         int RewardXP { get; set; }
 
+        public static List<Mission> GetSampleData()
+        {
+            return new List<Mission>()
+            {
+               new Mission(){ Title="Test Collect", MissionType = MissionTypeEnum.Collect, LevelMax = 40, DamagePerTurn = 100, CooldownTurns = 300, RewardMoney = 100, RewardXP = 100 },
+               new Mission(){ Title="Test Combat", MissionType = MissionTypeEnum.Combat, LevelMax = 40, DamagePerTurn = 100, CooldownTurns = 300, RewardMoney = 100, RewardXP = 100 },
+               new Mission(){ Title="Test Search", MissionType = MissionTypeEnum.Search, LevelMax = 40, DamagePerTurn = 100, CooldownTurns = 300, RewardMoney = 100, RewardXP = 100 }
+            };
+        }
 
     }
+
 
 }

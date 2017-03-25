@@ -8,7 +8,12 @@ namespace BotCLI
 {
     class Game
     {
-        List<Mission> misssionList;
+        List<Mission> missionList;
+
+        void Initialize()
+        {
+            missionList = Mission.GetSampleData();
+        }
 
         void Start()
         {
