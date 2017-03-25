@@ -16,3 +16,8 @@ The prestige game mechanic in an idle game usually results in the player resetti
 The grind portion of this is that not all systems have the materials you need.  You may have to hit many, many systems before you can build all the components you need to launch back to your home system.
 
 
+Decay of the bots over time while user is offline is a concept I want to play with to see how well that works for a motivator to return.  Maybe the bots need you to recharge or repair them at certain points.
+
+We can also use the force that originally blew up your ship as a reason for bots being lost, or as a forcing function to require you to move on to another solar system.
+
+
