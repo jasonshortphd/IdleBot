@@ -24,3 +24,11 @@ We can also use the force that originally blew up your ship as a reason for bots
 Could we have multiple spawn points running at the same time?  Maybe we start in one, and build it up and then move to another asteroid or planet to mine something else and leave the other.  How do we collect everything together into a single spot at the end to launch to next system?
 
 
+
+IDLE:
+
+How much idle is too much?
+
+Guild quest is literally ALL idle.  Runescape Idle is very different.  You have to focus on talents and energy and lots of quests to do while waiting.
+
+
