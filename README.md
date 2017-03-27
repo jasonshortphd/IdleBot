@@ -21,3 +21,6 @@ Decay of the bots over time while user is offline is a concept I want to play wi
 We can also use the force that originally blew up your ship as a reason for bots being lost, or as a forcing function to require you to move on to another solar system.
 
 
+Could we have multiple spawn points running at the same time?  Maybe we start in one, and build it up and then move to another asteroid or planet to mine something else and leave the other.  How do we collect everything together into a single spot at the end to launch to next system?
+
+
