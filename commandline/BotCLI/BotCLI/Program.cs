@@ -8,8 +8,12 @@ namespace BotCLI
 {
     class Program
     {
+        static Game game = null;
+
         static void Main(string[] args)
         {
+            game = new Game();
+
         }
     }
 }

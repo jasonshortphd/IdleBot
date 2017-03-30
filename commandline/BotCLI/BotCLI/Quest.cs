@@ -8,8 +8,8 @@ namespace BotCLI
 {
     class Quest
     {
-        public string QuestTitle;
-        public Reward QuestReward;
-        public Requirement QuestRequirements;
+        public string Title;
+        public List<Reward> Rewards;
+        public List<Requirement> Requirements;
     }
 }
