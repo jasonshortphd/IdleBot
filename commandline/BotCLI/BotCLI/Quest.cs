@@ -6,11 +6,6 @@ using System.Threading.Tasks;
 
 namespace BotCLI
 {
-    class Quests
-    {
-        public List<Quest> QuestList;
-    }
-
     class Quest
     {
         public string QuestTitle;
