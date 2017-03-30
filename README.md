@@ -37,4 +37,39 @@ Combat is also different.  You lose health and sort of have to pay attention to 
 
 Quests are a nice concept to drive the user around the map.  But after a while the quest tree gets complex and the user gets lost.  There is an added quests tab that just shows each quest, and the status items in each of the requirements.  After each requirement is a GO button to take you where the quest is needing you next.
 
+There are some interesting slot considerations with the dungeons as well.  At any given time you can only have three active powers.  The powers are sometimes complimentary to each other, sometimes not.  It is up to you to make it work.  You are only leveling the three skilss you are using at that time as active.  Some skills are like boost to melee.  But it only works for ONE melee hit.  If you don't have melee equipped then it does not good (other than training).
+
+Some creatures are all also buffed and you have to debuff them before you can hurt them.  This requires the use of a skills.
+
+There are also global spells like Strike 3x all damage for 30 seconds with a 5 min cooldown.  Or heal for 218 with a 10 min cooldown.
+Some monsters are "weak" against melee or ranged, or magic.  You have to read the monster description to find out which.
+
+General combat skills:
+melee 
+ranged
+magic
+healing
+defense
+theif
+debuff 
+summoning - Pet leveled with health and attack power.  When it does you summon another. Always takes damaged before the player.
+
+Dungeon quests:
+Title: Good to be bad
+Requirements:
+    Defeat 55 skeletons in xxx dungeon  23/55 progress
+    defeat 45 zombies in xxx dungeon 13/45
+    Complete 7 waves of xxx dungeon
+    Use SKILL XX times in XXX dungeon
+    Train XX citizens in XXX dungeon
+Rewards:
+    +Blue / Red power
+    +Citizens on powers used
+    +XP on powers  (if power tops off and needs to be click by player the remaining XP is wasted)
+    +Gear for player
+    +
+
+
+
+
 
