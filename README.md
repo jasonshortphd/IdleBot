@@ -35,4 +35,6 @@ After playing with Runescape Idle for a couple days they have a nice storyline, 
 The UI is simply, and I can imagine that all the locations will get to be a bit difficult to manager after a while.  The quest progress is your navigation mechanic.  You go there and see what needs to be done, and then click GO to launch directly to that spot.
 Combat is also different.  You lose health and sort of have to pay attention to when to use your powerups to win boss battles.  The idle part is inbetween bosses, as each boss battle can only be triggered by a human.
 
+Quests are a nice concept to drive the user around the map.  But after a while the quest tree gets complex and the user gets lost.  There is an added quests tab that just shows each quest, and the status items in each of the requirements.  After each requirement is a GO button to take you where the quest is needing you next.
+
 
