@@ -70,6 +70,10 @@ Rewards:
     +
 
 
-
+Town Locations:
+    Have 9 tiles of skills that are used in this location for quests
+    If you don't add any workers to the tiles, they don't power up
+    Some have required numbers of times YOU must do them (be clicked on them active)
+    
 
 
