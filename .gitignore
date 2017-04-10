@@ -251,3 +251,6 @@ paket-files/
 .idea/
 *.sln.iml
 unity/Idle Bot/Library/
+unity/Idle Bot/[Oo]bj/
+unity/Idle Bot/[Tt]emp/
+unity/Idle Bot/temporary/
