@@ -8,6 +8,7 @@ namespace BotCLI
 {
     public enum MissionTypeEnum
     {
+        Unknown,
         Search,
         Combat,
         Collect
@@ -15,21 +16,21 @@ namespace BotCLI
 
     class Mission
     {
-        string Title { get; set; }
+        public string Title { get; set; }
 
-        MissionTypeEnum MissionType { get; set; } 
+        public MissionTypeEnum MissionType { get; set; }
 
-        int Level { get; set; }
+        public int Level { get; set; }
 
         internal int LevelMax { get; set; }
 
-        int DamagePerTurn { get; set; }
+        public int DamagePerTurn { get; set; }
 
-        int CooldownTurns { get; set; }
+        public int CooldownTurns { get; set; }
 
-        int RewardMoney { get; set; }
+        public int RewardMoney { get; set; }
 
-        int RewardXP { get; set; }
+        public int RewardXP { get; set; }
 
         public static List<Mission> GetSampleData()
         {

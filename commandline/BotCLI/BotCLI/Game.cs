@@ -8,11 +8,13 @@ namespace BotCLI
 {
     class Game
     {
-        List<Mission> missionList;
+        IEnumerable<Mission> missionList;
 
         void Initialize()
         {
             missionList = Mission.GetSampleData();
+
+            var lowLevelMissions = missionList.Where(m => m.LevelMax < 40);
         }
 
         void Start()

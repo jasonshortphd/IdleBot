@@ -23,7 +23,7 @@ namespace BotCLI
     {
         public string Name;
         public int Amount;
-        RewardEnum RewardType;
+        public RewardEnum RewardType;
 
         // What does the XP apply to? A skill?  Which skill?
 
